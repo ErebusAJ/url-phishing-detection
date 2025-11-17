@@ -5,6 +5,13 @@ A Deep Neural Network (DNN)-based classifier for detecting phishing websites usi
 Web Page Phishing Detection Dataset
 https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
 
+Authors:
+ - **Aarya Jamwal - 22BAI70249**
+ - **Akshat Verma - 22BAI70080**
+ - **Aryan Sharma - 22BAI70015**
+ - **Harsh Singh - 22BAI70076**
+ - **Shivam Patel - 22BAI71388**
+
 This repository provides:
  * Automated dataset download (Kaggle API)
  * Full preprocessing pipeline
