@@ -157,3 +157,7 @@ https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
 	•	Browser extension integration
 
 ---
+
+# License
+
+[MIT License](LICENSE)
